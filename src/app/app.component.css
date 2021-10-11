@@ -1,8 +1,0 @@
-@media (min-width:992px) {
-
-    .navbar-static-top {position:fixed;top:0;right:0;left:0;}
-}
-.navbar-static-top{
-    position: sticky;
-
-}
